@@ -1,3 +1,5 @@
+importScripts('js/script1.js');
+
 self.addEventListener('message', function(e) {
     var msg  = e.data;
     // Send the message back.
