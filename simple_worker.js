@@ -1,3 +1,4 @@
+importScripts('https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.13.1/lodash.min.js')
 importScripts('js/script1.js');
 
 self.addEventListener('message', function(e) {
